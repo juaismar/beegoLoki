@@ -1,4 +1,4 @@
-module beegoLoki
+module github.com/juaismar/beegoLoki
 
 go 1.20
 
