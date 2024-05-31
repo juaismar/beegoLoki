@@ -1,4 +1,4 @@
-# gormssp
+# grafanaLoki
 
 _Send logs to grafana Loki_
 
